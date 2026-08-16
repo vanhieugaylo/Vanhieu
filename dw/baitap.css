@@ -1,0 +1,61 @@
+/* ==========================================================
+   STYLESHEET DUY NHẤT CHO CẢ BA TRANG (ĐÁP ỨNG TOÀN BỘ YÊU CẦU)
+   ================================================---------- */
+
+/* 1. Thẻ nội dung (Body): Sửa đổi họ phông chữ và kích thước phông chữ */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f7;
+    color: #333333;
+}
+
+/* 2. Thẻ tiêu đề (Header): Sửa đổi thuộc tính màu nền */
+header {
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* 3. Thẻ điều hướng (Nav): Sửa đổi thuộc tính màu nền */
+nav {
+    background-color: #34495e;
+    padding: 10px 20px;
+}
+
+/* 4. Thẻ chính (Main): Sửa đổi màu nền và kích thước phông chữ */
+main {
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 30px;
+    min-height: 400px;
+}
+
+/* 5. Thẻ chân trang (Footer): Sửa đổi thuộc tính màu nền */
+footer {
+    background-color: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+/* 6. Thẻ danh sách (li): Sửa đổi thuộc tính hiển thị và chiều rộng */
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* 7. Thẻ tiêu đề h1: Sửa đổi căn chỉnh văn bản, họ phông chữ và màu sắc */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+}
+
+/* 8. Thẻ đoạn văn (p): Sửa đổi thuộc tính chiều cao dòng */
+p {
+    line-height: 1.6;
+}
